@@ -1,0 +1,32 @@
+_repo: A-Short-Life-of-Abraham-LincolnCondensed-from-Nicolay--amp--Hay-s-Abraham-Lincoln--A-History_16332
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nicolay, John G. (John George)
+    alias: Nicolay, John George
+    birthdate: 1832
+    deathdate: 1901
+    gutenberg_agent_id: '4074'
+    url: http://www.gutenberg.org/2009/agents/4074
+    wikipedia: http://en.wikipedia.org/wiki/John_George_Nicolay
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2005-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcc 'E456'
+title: 'A Short Life of Abraham Lincoln
+
+  Condensed from Nicolay & Hay''s Abraham Lincoln: A History'
+url: http://www.gutenberg.org/ebooks/16332
